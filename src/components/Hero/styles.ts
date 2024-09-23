@@ -29,7 +29,7 @@ export const FormularioHero = styled.form`
     height: auto;
     padding: 24px 0;
 
-    heroTitle {
+    div {
       font-size: 32px;
     }
   }
