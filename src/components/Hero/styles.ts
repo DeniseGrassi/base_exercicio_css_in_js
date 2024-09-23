@@ -34,7 +34,7 @@ export const FormularioHero = styled.form`
     }
   }
 `
-export const TituloH2 = styled.h2`
+export const HeroTitle = styled.h2`
   font-family: Gloock, serif;
   font-size: 48px;
 `
