@@ -23,15 +23,13 @@ export const FormularioHero = styled.form`
   div {
     position: relative;
     color: ${(props) => props.theme.CorTextoHero};
-    font-family: Gloock, serif;
-    font-size: 28px;
   }
 
   @media (max-width: 768px) {
     height: auto;
     padding: 24px 0;
 
-    div {
+    h2 {
       font-size: 32px;
     }
   }
